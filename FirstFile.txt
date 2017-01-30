@@ -1,1 +1,6 @@
-This is the first line in the file FirstFile
+#inlcude<stdio.h>
+
+void main() {
+int i = 0;
+return 1;
+}
