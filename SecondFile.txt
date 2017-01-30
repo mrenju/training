@@ -1,2 +1,3 @@
 Second user is adding a new line to SecondFile
 First user is adding a new line to SecondFile
+First user adding second line to SecondFile
